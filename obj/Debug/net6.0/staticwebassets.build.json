@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Rmk8BjQ+VQ9ZQ7PVthdreqxNvjxxtfwbmp/8vDi8Dik=",
+  "Source": "dotnetcore6webapi",
+  "BasePath": "_content/dotnetcore6webapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
